@@ -61,8 +61,8 @@ const project = () => {
       id: 6,
       image: ecommerce,
       title: "E-commerce.ge",
-      github: "https://easyloansite.netlify.app/",
-      demo: "https://easyloansite.netlify.app/",
+      github: "https://github.com/salome775/E-commerce",
+      demo: "https://e-commerce-k64brvgsz-salome775.vercel.app/",
       desc: "E-commerce app built using react framework and material-UI",
     },
   ];
